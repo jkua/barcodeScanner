@@ -1,4 +1,4 @@
-# UPC Scanner
+# Barcode Scanner
 This application uses a webcam feed to scan barcodes (UPC, EAN, etc.) and optionally write them to a CSV file
 
 ## Dependencies
